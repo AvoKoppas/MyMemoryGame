@@ -61,8 +61,3 @@ class MemoryGame(private val boardSize: BoardSize) {
         return numCardFlips / 2
     }
 }
-
-
-
-
-
